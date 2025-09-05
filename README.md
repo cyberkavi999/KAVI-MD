@@ -2,7 +2,7 @@
 <div align="center">
 
  
- <img src="https://raw.githubusercontent.com/Cyber-kavi/BOT-DP/refs/heads/main/cyber%20kavi.png">
+ <img src="https://raw.githubusercontent.com/cyberkavi999/KAVI-DP2/refs/heads/main/cyber%20kavi.png">
 
 
 
