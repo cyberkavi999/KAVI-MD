@@ -28,7 +28,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "94728810592", // ඔයාගෙ න�
 OWNER_EMOJI: process.env.OWNER_EMOJI || "☠", // ඉමෝජි
 BOT_NAME: process.env.BOT_NAME || "*KAVI-MD*", // බොට් නම
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
-ANTI_DELETE: process.env.ANTI_DELETE || "true",
+ANTI_DELETE: process.env.ANTI_DELETE || "false",
 DELETEMSGSENDTO: process.env.DELETEMSGSENDTO === undefined ? '' : process.env.DELETEMSGSENDTO,
 INBOX_BLOCK: process.env.INBOX_BLOCK || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
