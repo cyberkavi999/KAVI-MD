@@ -19,8 +19,6 @@
     "util": "^0.12.5",
     "express": "^5.1.0",
     "axios": "^1.11.0",
-    "crypto-digest-sync": "^1.0.0",
-    "crypto-js": "^4.2.2",
     "file_size_url": "^1.0.6",
     "fs-extra": "^11.3.1",
     "fs": "^0.0.1-security",
